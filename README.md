@@ -1,5 +1,5 @@
 # Jerre on Air
-![Jerre on Air](./player/src/jerreOnAir.png)
+![Jerre on Air](./player/src/jerreOnAir.png) \
 This website will help you get hyped up for the upcomming punkrock festival Jera on Air in the Netherlands.\
 You can listen and rate to songs of the artists that are coming to the festival.
 
@@ -15,7 +15,7 @@ Setup the frontend with
 ```
 npm install
 ```
-[A launch script is included](./launch.bat) with an [icon](launch_icon.ico) to the make the shortcut nicer.
+[A launch script is included](./launch.bat) with an [icon](launch_icon.ico) to the make the shortcut nicer. \
 Or you can do it manually with
 ```
 python ./backend/manage.py runserver
