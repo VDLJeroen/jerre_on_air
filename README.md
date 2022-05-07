@@ -3,7 +3,7 @@
 This website will help you get hyped up for the upcomming punkrock festival Jera on Air in the Netherlands.\
 You can listen and rate to songs of the artists that are coming to the festival.
 
-The application is tailored to the festival [Jera on Air](https://www.jeraonair.nl/nl/)./
+The application is tailored to the festival [Jera on Air](https://www.jeraonair.nl/nl/).\
 It can also be used as a baseline for another festival you want to go to.
 
 ![Preview](./preview.png)
@@ -25,6 +25,6 @@ npm start --prefix ./player
 ## Usage
 The website runs locally on [http://localhost:3000/](http://localhost:3000/).\
 The backend runs on [http://localhost:8000/](http://localhost:8000/).\
-Django provides a nice interface to interact with the data on [http://localhost:8000/api/](http://localhost:8000/api/).\
+Django provides a nice interface to interact with the data on [http://localhost:8000/api/](http://localhost:8000/api/).
 
 
