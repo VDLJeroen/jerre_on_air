@@ -1,5 +1,6 @@
-# Jerre on Air
 ![Jerre on Air](./player/src/jerreOnAir.png) \
+![django](https://img.shields.io/badge/backend-django-brightgreen?logo=Django)
+![react](https://img.shields.io/badge/frontend-react-blue?logo=react) \
 This website will help you get hyped up for the upcomming punkrock festival Jera on Air in the Netherlands.\
 You can listen and rate to songs of the artists that are coming to the festival.
 
